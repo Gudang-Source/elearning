@@ -4,6 +4,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="aligncenter"><h2 class="aligncenter">E - Learning</h1><span class="clear spacer_responsive_hide_mobile " style="height:13px;display:block;"></span>Pembelajaran Daring Melalui Video Pembelajaran, Rangkuman Materi Dan Tes Pehahaman Materi.</div>
+                </br>
             </div>                
         <div class="row service-v1 margin-bottom-40">
             <div class="col-md-3 md-margin-bottom-40">
